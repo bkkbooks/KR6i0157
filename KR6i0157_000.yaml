@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0157/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說逝童子經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0527.xml
+    old_id: T14n0527
+hash: sha256:0f2005fe2d72e01730237c841c4b858a78e8193b3f21f79cb835ea9127ae1026
